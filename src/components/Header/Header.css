@@ -1,0 +1,23 @@
+.menuItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.menuItem ul {
+  width: 800px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  display: inline-block;
+  padding: 15px 50px;
+  background-color: green;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn a {
+  color: white;
+}
